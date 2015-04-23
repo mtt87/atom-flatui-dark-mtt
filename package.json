@@ -1,0 +1,11 @@
+{
+  "name": "flatui-dark-mtt",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "FlatUI colors with dark background",
+  "repository": "https://github.com/atom/flatui-dark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
